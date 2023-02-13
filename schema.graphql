@@ -1,0 +1,6 @@
+type ExampleEntity @entity {
+  id: ID!
+  count: BigInt!
+  proxy: Bytes! # address
+  masterCopy: Bytes! # address
+}
