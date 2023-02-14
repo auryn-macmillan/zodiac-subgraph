@@ -1,0 +1,16 @@
+build/
+artifacts/
+abi-typechain-types/
+typechain-types/
+node_modules/
+.DS_Store
+env/
+.env
+.history
+coverage*
+dist/
+deployments
+yarn-error.log
+.docusaurus
+.idea
+generated/
